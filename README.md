@@ -11,3 +11,9 @@ IC Assignment 2: Chapter 2 of Ecology Handbook
 - Making an exponential equation to measue how quickly duckweed covers a pond
 - Minimal technical difficulties, bit better
 - Works and introduced matplot lib, and plotting on x and y axis
+
+IC Assignment 3: Chapter 3 of Ecology Handbook
+- Today we made a logistic growth model accounting for intraspecific compatition with self-shading effect.
+- Little to no technical difficulties
+- Like last week, we used matplot lib and x and y axis plotting to represent the logistic growth model.
+- When I heard we would be navigating though this problem by ourselves, I was slightly nervous. I wasn't sure how I would navigate the interface given the little experience I had with it. Thankfully, I was able to guide myself thorugh everything tnaks to a trial-and-error approach. I even found it quite fun slowly understanding everything and reaching the result I was looking for. Can't wait to see what we do next!
