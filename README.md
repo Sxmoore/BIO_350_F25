@@ -17,3 +17,5 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
 - Little to no technical difficulties
 - Like last week, we used matplot lib and x and y axis plotting to represent the logistic growth model.
 - When I heard we would be navigating though this problem by ourselves, I was slightly nervous. I wasn't sure how I would navigate the interface given the little experience I had with it. Thankfully, I was able to guide myself thorugh everything tnaks to a trial-and-error approach. I even found it quite fun slowly understanding everything and reaching the result I was looking for. Can't wait to see what we do next!
+
+IC Assignment 4:
