@@ -23,3 +23,9 @@ IC Example 2:
 - downloades data file with pandas and applied it with python
 - learned how to use copilot to edit within lines
 - It works!
+
+IC Assignment 4: Chapter 4 of Ecology Handbook
+- Today we made a logistic growth model accounting for the interspecific competition of two species of self-shading plants.
+- Zero technical difficulties!
+- Used markdown to answer staged questions on board, allowing us to comprehend the material and practice problem solving.
+- It works!
