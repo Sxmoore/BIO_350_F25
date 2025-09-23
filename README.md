@@ -29,3 +29,7 @@ IC Assignment 4: Chapter 4 of Ecology Handbook
 - Zero technical difficulties!
 - Used markdown to answer staged questions on board, allowing us to comprehend the material and practice problem solving.
 - It works!
+
+IC Example 3:
+- Lotka-Volterra Competition: Population Over Time
+- How to calcultate and solve for the ability to coexist?
