@@ -33,3 +33,9 @@ IC Assignment 4: Chapter 4 of Ecology Handbook
 IC Example 3:
 - Lotka-Volterra Competition: Population Over Time
 - How to calcultate and solve for the ability to coexist?
+
+IC Assignment 5: Chapter 5 of Ecology Handbook
+- Today we used an SIR Model to determine the effects of rabies on a population of foxes.
+- Dr. Einarsson like that I used + and - signs in front of my = signs for the equations for the current and new variables. This was entirely accidental, but it's nice to know that I discovered a shortcut thanks to CoPilot.
+- 1 Issue: During my first run, the values for my infected individuals were higher than what i had expected, but I realized that I put in the wrong death rate in my parameters.
+- It works!
