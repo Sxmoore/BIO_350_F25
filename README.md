@@ -46,3 +46,13 @@ IC Example 4:
 - Downloaded the R file and ran it in new folder via conda. 
 - I ran into an issue where some of my parameters were missing. Signified them as as "r". 
 - Install pandas to organize and visualize SICZ model results as data frames. Produced three graphs repesenting different population sizes (Large, Medium, Small).
+
+IC Assignment 6:
+- Today we used the Matrix Model to calculate the populatioon of 3 ages of a beetle population and the total population over 150 years
+    - Initial populations, birth and survival rates were given
+    - Primary Questions:
+      - How many beetles could be present in the park in 20 years
+      - How much would it help to set traps that catch 5% of the second- and third-year adults that would have otherwise survived each year
+- Had to adjust to this new form of model making relatively quickly as it incorporates multiple equations into one simplified equation
+- Struggled to create matrix for trap, but eventually defined new variables associated with this question
+- It works!
