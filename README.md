@@ -39,3 +39,10 @@ IC Assignment 5: Chapter 5 of Ecology Handbook
 - Dr. Einarsson like that I used + and - signs in front of my = signs for the equations for the current and new variables. This was entirely accidental, but it's nice to know that I discovered a shortcut thanks to CoPilot.
 - 1 Issue: During my first run, the values for my infected individuals were higher than what i had expected, but I realized that I put in the wrong death rate in my parameters.
 - It works!
+
+IC Example 4:
+- Do carcasses contribute to the spread of diseases?
+- Objective: translate example R code into Python line by line
+- Downloaded the R file and ran it in new folder via conda. 
+- I ran into an issue where some of my parameters were missing. Signified them as as "r". 
+- Install pandas to organize and visualize SICZ model results as data frames. Produced three graphs repesenting different population sizes (Large, Medium, Small).
