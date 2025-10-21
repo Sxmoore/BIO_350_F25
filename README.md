@@ -56,3 +56,10 @@ IC Assignment 6:
 - Had to adjust to this new form of model making relatively quickly as it incorporates multiple equations into one simplified equation
 - Struggled to create matrix for trap, but eventually defined new variables associated with this question
 - It works!
+
+IC Example 5:
+- Worked with Age or Staged Structured population models
+- Used ChapGPT and CoPilot to define variables and construct a model that shows the growth of a deer population across 5 age stages
+- Plotted results on VSCode
+  - Answered questions in Markdown 
+   - identified transient and stable behaviors of the population's dynamics
