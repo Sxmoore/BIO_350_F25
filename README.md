@@ -63,3 +63,15 @@ IC Example 5:
 - Plotted results on VSCode
   - Answered questions in Markdown 
    - identified transient and stable behaviors of the population's dynamics
+
+IC Assignment 7:
+- Worked with Transition matricies to model succession (Ch. 13) and absorbtion (Ch. 14) of populations
+- Probably the most challenging exercise I've had in this class
+ - I struggled to conceptualize the model form a real-world persepctive which made it harder to understand what particular terms and variables meant
+ - Chapter 13 wasn't so bad
+  - I hade to appent the initiall populations to produced list for the tree species that will be projected over time.
+  - At first I defined the wrong terms , but quickly figured it out
+- Chapter 14 was where I struggled the most
+ - I didn't know where to start, specifically when it came to directing VSCode what I wanted to find
+ - With the help of Dr. Einarsson, I was able to slow down and take things step-by-step and work thorught the initial values ant the extinction and repopulation rates within the metapopulation
+- It all works!
