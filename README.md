@@ -75,3 +75,7 @@ IC Assignment 7:
  - I didn't know where to start, specifically when it came to directing VSCode what I wanted to find
  - With the help of Dr. Einarsson, I was able to slow down and take things step-by-step and work thorught the initial values ant the extinction and repopulation rates within the metapopulation
 - It all works!
+
+IC_Example 6:
+- Fitting models to data
+- Calculated example data of moose encounters in a negative binomial equation
