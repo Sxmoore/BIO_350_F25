@@ -79,3 +79,14 @@ IC Assignment 7:
 IC_Example 6:
 - Fitting models to data
 - Calculated example data of moose encounters in a negative binomial equation
+
+IC Assignment 8:
+- Constructed Probability distribution models using discrete values
+- Ex. Predicting egg quantities in eagle nests
+  - probability we will find a certain number of eggs in a particular nest OR row of nests
+- Struggled with this one
+ - I first had to build a model asking what I'm trying to find.
+    - defined terms to find the probabilty and average number of eggs
+    - asked VSCode to print results
+    - input values from ex. 1 & 2
+- It works!
