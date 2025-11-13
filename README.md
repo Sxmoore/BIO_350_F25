@@ -90,3 +90,8 @@ IC Assignment 8:
     - asked VSCode to print results
     - input values from ex. 1 & 2
 - It works!
+
+IC_Example 7:
+- Created a neural network to model values for quatities of nitrate, salinity, and temperature
+  - struggled to install matplotlib pandas and seaborn
+  - MLP regressor model could be useful in my final project
