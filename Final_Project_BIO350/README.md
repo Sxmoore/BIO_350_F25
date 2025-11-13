@@ -4,7 +4,29 @@
 
 ## Introduction, analysis method, paper description
 
-For this project, I chose 
+For this project, I chose . . .
+- The purpose of this paper was to . . .
+Through this study, the researchers found that . . .
+For this study, the researchers used . . . to . . .
+- This was done so that they can . . .
+- To achieve their results, the researchers construted a unique framework based on . . . to find . . .
+    1. First, they . . .
+    2. Next, . . .
+    3. Then,
+    4. Afterwards,
+    5. Finally,
+    etc.
+
+## Replication (VSCode)
+
+The primary objective of my analysis is to recreate the model and determine whether it produces the same or different results.
+- Specifically, I structure it around a specific question 
+    - If . . ., will . . .?
+- With this question in mind, I formulated a hypothesis. Based on . . ., the . . . will . . .
+To achieve this I adopted a similar/different approach of that of the researchers.
+- I used . . . to . . .
+    - My workflow is structured around establishing the parameters 
+
 
  
 
