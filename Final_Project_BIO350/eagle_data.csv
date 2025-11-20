@@ -1,0 +1,101 @@
+ObservationID,Date,Location,Species,Age,Sex,WingSpan_cm,Weight_kg,Behavior
+1,2025-03-15,Yellowstone NP,Golden Eagle,Adult,Female,200,4.0,Nesting
+2,2025-03-16,Rocky Mountain NP,Bald Eagle,Juvenile,Male,198,5.3,Flying
+3,2025-03-17,Glacier NP,Golden Eagle,Adult,Female,215,5.6,Flying
+4,2025-03-18,Glacier NP,Bald Eagle,Adult,Female,227,6.0,Flying
+5,2025-03-19,Glacier NP,Bald Eagle,Adult,Male,218,5.9,Flying
+6,2025-03-20,Denali NP,Bald Eagle,Adult,Female,211,4.0,Nesting
+7,2025-03-21,Denali NP,Golden Eagle,Adult,Male,220,6.4,Flying
+8,2025-03-22,Denali NP,Golden Eagle,Juvenile,Female,190,4.7,Nesting
+9,2025-03-23,Grand Canyon NP,Bald Eagle,Juvenile,Female,217,5.5,Perched
+10,2025-03-24,Yosemite NP,Golden Eagle,Adult,Male,208,4.4,Nesting
+11,2025-03-25,Yosemite NP,Golden Eagle,Adult,Female,204,4.2,Perched
+12,2025-03-26,Yosemite NP,Bald Eagle,Juvenile,Male,208,4.7,Perched
+13,2025-03-27,Rocky Mountain NP,Bald Eagle,Juvenile,Female,198,4.6,Flying
+14,2025-03-28,Evergladesv NP,Golden Eagle,Adult,Female,207,5.0,Nesting
+15,2025-03-29,Grand Canyon NP,Bald Eagle,Juvenile,Female,177,6.3,Nesting
+16,2025-03-30,Denali NP,Golden Eagle,Juvenile,Female,211,4.4,Nesting
+17,2025-03-31,Yellowstone NP,Bald Eagle,Juvenile,Male,198,4.4,Flying
+18,2025-04-01,Grand Canyon NP,Bald Eagle,Juvenile,Female,187,4.1,Perched
+19,2025-04-02,Grand Canyon NP,Bald Eagle,Adult,Female,229,6.2,Nesting
+20,2025-04-03,Evergladesv NP,Golden Eagle,Juvenile,Male,203,5.2,Flying
+21,2025-04-04,Yellowstone NP,Golden Eagle,Juvenile,Male,220,5.1,Hunting
+22,2025-04-05,Glacier NP,Bald Eagle,Adult,Male,215,5.9,Nesting
+23,2025-04-06,Glacier NP,Bald Eagle,Juvenile,Female,215,6.3,Perched
+24,2025-04-07,Yosemite NP,Golden Eagle,Adult,Male,225,4.5,Hunting
+25,2025-04-08,Rocky Mountain NP,Golden Eagle,Adult,Male,208,6.3,Flying
+26,2025-04-09,Yosemite NP,Bald Eagle,Adult,Male,209,6.3,Flying
+27,2025-04-10,Yosemite NP,Golden Eagle,Adult,Male,227,4.5,Flying
+28,2025-04-11,Grand Canyon NP,Bald Eagle,Adult,Male,216,4.7,Hunting
+29,2025-04-12,Denali NP,Bald Eagle,Juvenile,Female,208,4.2,Hunting
+30,2025-04-13,Glacier NP,Bald Eagle,Adult,Female,203,4.5,Perched
+31,2025-04-14,Evergladesv NP,Bald Eagle,Adult,Male,214,6.2,Perched
+32,2025-04-15,Denali NP,Bald Eagle,Juvenile,Male,201,5.6,Flying
+33,2025-04-16,Rocky Mountain NP,Golden Eagle,Juvenile,Female,220,6.1,Nesting
+34,2025-04-17,Yellowstone NP,Bald Eagle,Juvenile,Female,197,5.7,Perched
+35,2025-04-18,Glacier NP,Golden Eagle,Juvenile,Female,214,5.3,Flying
+36,2025-04-19,Yosemite NP,Bald Eagle,Juvenile,Female,213,4.1,Flying
+37,2025-04-20,Glacier NP,Golden Eagle,Adult,Male,211,4.2,Flying
+38,2025-04-21,Glacier NP,Golden Eagle,Juvenile,Male,181,6.2,Nesting
+39,2025-04-22,Glacier NP,Bald Eagle,Juvenile,Female,209,5.8,Perched
+40,2025-04-23,Glacier NP,Golden Eagle,Adult,Male,208,4.1,Nesting
+41,2025-04-24,Evergladesv NP,Bald Eagle,Juvenile,Female,178,4.7,Nesting
+42,2025-04-25,Denali NP,Golden Eagle,Juvenile,Male,227,6.0,Flying
+43,2025-04-26,Denali NP,Bald Eagle,Juvenile,Female,198,4.1,Nesting
+44,2025-04-27,Yosemite NP,Bald Eagle,Juvenile,Female,222,4.0,Perched
+45,2025-04-28,Grand Canyon NP,Bald Eagle,Juvenile,Male,184,4.8,Perched
+46,2025-04-29,Yosemite NP,Golden Eagle,Juvenile,Female,211,5.2,Perched
+47,2025-04-30,Rocky Mountain NP,Golden Eagle,Juvenile,Male,219,5.7,Hunting
+48,2025-05-01,Yellowstone NP,Golden Eagle,Juvenile,Male,181,4.5,Flying
+49,2025-05-02,Glacier NP,Golden Eagle,Adult,Male,217,4.6,Hunting
+50,2025-05-03,Grand Canyon NP,Bald Eagle,Adult,Male,211,4.6,Flying
+51,2025-05-04,Grand Canyon NP,Bald Eagle,Adult,Female,206,6.2,Perched
+52,2025-05-05,Grand Canyon NP,Golden Eagle,Juvenile,Female,185,4.0,Flying
+53,2025-05-06,Evergladesv NP,Golden Eagle,Adult,Male,205,5.6,Hunting
+54,2025-05-07,Yosemite NP,Golden Eagle,Juvenile,Female,183,5.1,Flying
+55,2025-05-08,Glacier NP,Bald Eagle,Juvenile,Male,184,6.2,Flying
+56,2025-05-09,Yellowstone NP,Golden Eagle,Adult,Male,211,5.3,Hunting
+57,2025-05-10,Yellowstone NP,Bald Eagle,Adult,Female,202,5.5,Perched
+58,2025-05-11,Grand Canyon NP,Golden Eagle,Juvenile,Male,218,5.4,Hunting
+59,2025-05-12,Evergladesv NP,Bald Eagle,Juvenile,Female,193,6.3,Flying
+60,2025-05-13,Yellowstone NP,Golden Eagle,Adult,Male,214,6.4,Flying
+61,2025-05-14,Yosemite NP,Bald Eagle,Adult,Male,214,4.5,Hunting
+62,2025-05-15,Grand Canyon NP,Golden Eagle,Adult,Female,213,5.7,Perched
+63,2025-05-16,Yosemite NP,Bald Eagle,Juvenile,Male,205,4.9,Nesting
+64,2025-05-17,Yosemite NP,Golden Eagle,Juvenile,Female,199,5.4,Hunting
+65,2025-05-18,Rocky Mountain NP,Golden Eagle,Adult,Female,200,4.0,Nesting
+66,2025-05-19,Denali NP,Golden Eagle,Juvenile,Female,212,5.6,Flying
+67,2025-05-20,Rocky Mountain NP,Golden Eagle,Adult,Female,226,4.8,Perched
+68,2025-05-21,Yellowstone NP,Golden Eagle,Adult,Female,220,4.3,Nesting
+69,2025-05-22,Evergladesv NP,Bald Eagle,Juvenile,Female,209,4.5,Hunting
+70,2025-05-23,Grand Canyon NP,Golden Eagle,Juvenile,Male,227,4.2,Hunting
+71,2025-05-24,Yosemite NP,Bald Eagle,Juvenile,Female,175,6.2,Nesting
+72,2025-05-25,Yosemite NP,Golden Eagle,Juvenile,Male,216,4.7,Hunting
+73,2025-05-26,Glacier NP,Golden Eagle,Adult,Female,215,4.3,Flying
+74,2025-05-27,Evergladesv NP,Bald Eagle,Adult,Male,228,5.5,Nesting
+75,2025-05-28,Grand Canyon NP,Golden Eagle,Juvenile,Female,207,6.2,Perched
+76,2025-05-29,Evergladesv NP,Bald Eagle,Adult,Male,201,6.0,Hunting
+77,2025-05-30,Yellowstone NP,Golden Eagle,Juvenile,Female,214,4.9,Nesting
+78,2025-05-31,Grand Canyon NP,Golden Eagle,Juvenile,Female,223,6.1,Hunting
+79,2025-06-01,Rocky Mountain NP,Golden Eagle,Juvenile,Female,224,4.1,Hunting
+80,2025-06-02,Evergladesv NP,Bald Eagle,Adult,Female,216,5.4,Perched
+81,2025-06-03,Denali NP,Golden Eagle,Adult,Male,218,5.9,Flying
+82,2025-06-04,Evergladesv NP,Golden Eagle,Juvenile,Male,221,6.1,Flying
+83,2025-06-05,Evergladesv NP,Golden Eagle,Juvenile,Male,225,6.3,Flying
+84,2025-06-06,Grand Canyon NP,Golden Eagle,Adult,Female,220,4.9,Hunting
+85,2025-06-07,Yosemite NP,Bald Eagle,Adult,Male,220,5.6,Perched
+86,2025-06-08,Rocky Mountain NP,Bald Eagle,Adult,Female,226,4.4,Hunting
+87,2025-06-09,Yellowstone NP,Golden Eagle,Adult,Female,214,5.8,Hunting
+88,2025-06-10,Yosemite NP,Golden Eagle,Adult,Male,209,4.3,Hunting
+89,2025-06-11,Glacier NP,Bald Eagle,Juvenile,Male,191,5.2,Nesting
+90,2025-06-12,Evergladesv NP,Golden Eagle,Adult,Male,216,4.1,Nesting
+91,2025-06-13,Glacier NP,Bald Eagle,Adult,Female,229,6.4,Flying
+92,2025-06-14,Yosemite NP,Bald Eagle,Juvenile,Male,221,4.2,Nesting
+93,2025-06-15,Evergladesv NP,Bald Eagle,Juvenile,Female,212,5.1,Hunting
+94,2025-06-16,Denali NP,Golden Eagle,Adult,Male,202,5.3,Hunting
+95,2025-06-17,Yosemite NP,Golden Eagle,Adult,Female,220,6.3,Nesting
+96,2025-06-18,Rocky Mountain NP,Golden Eagle,Adult,Male,202,5.8,Flying
+97,2025-06-19,Evergladesv NP,Bald Eagle,Adult,Male,204,5.7,Nesting
+98,2025-06-20,Evergladesv NP,Golden Eagle,Juvenile,Male,195,4.1,Hunting
+99,2025-06-21,Glacier NP,Golden Eagle,Adult,Male,216,4.4,Nesting
+100,2025-06-22,Glacier NP,Bald Eagle,Adult,Male,230,4.7,Flying
